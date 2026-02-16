@@ -1,0 +1,72 @@
+/* General Page Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Header */
+h1 {
+    background-color: #222;
+    color: white;
+    padding: 20px;
+    margin: 0;
+}
+
+/* Sections */
+section {
+    background: white;
+    margin: 30px auto;
+    padding: 20px;
+    width: 80%;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Image Styling */
+img {
+    border-radius: 50%;
+    margin: 15px 0;
+}
+
+/* Contact Info */
+p {
+    font-size: 16px;
+}
+
+/* Form Styling */
+input, textarea {
+    width: 90%;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #222;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #444;
+}
+
+/* Services List */
+ul {
+    list-style-type: square;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+    font-size: 16px;
+}
+  
